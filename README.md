@@ -25,5 +25,5 @@
   Looking out to collaborate on any type of projects!
 </div>
 <div align="center">
-hola chat :P
+hola chat :)
 </div>
