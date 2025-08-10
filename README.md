@@ -18,7 +18,6 @@
   <h2> Currently learning: </h2>
   <p> -First programming </p>
   <p> -Java </p>
-  <p> -C for arduino </p>
 </div>
 
 <div align="center">
