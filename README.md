@@ -13,6 +13,10 @@
 </div>
 <div align="center">
   <img src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejZuZnE0YXhwOTFtM3Y1aWp3NnM0ZXJiN3puOTh1MGhyNXV0YXhnaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/DSd4KaeEfDLPkGcZmE/giphy.gif width=200>
+  <img src=https://github.com/sabruzuuu/sabruzuuu/blob/output/github-snake-dark.svg>
+</div>
+<div>
+  <img src=https://github-readme-stats.vercel.app/api?username=sabruzuuu&theme=highcontrast&show_icons=true&hide_border=true&count_private=true src=https://github-readme-streak-stats.herokuapp.com/?user=sabruzuuu&theme=highcontrast&hide_border=true>
 </div>
 <div>
   <h2> Currently learning: </h2>
