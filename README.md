@@ -16,7 +16,8 @@
   <img src=https://github.com/sabruzuuu/sabruzuuu/blob/output/github-snake-dark.svg>
 </div>
 <div>
-  <img src=https://github-readme-stats.vercel.app/api?username=sabruzuuu&theme=highcontrast&show_icons=true&hide_border=true&count_private=true src=https://github-readme-streak-stats.herokuapp.com/?user=sabruzuuu&theme=highcontrast&hide_border=true>
+  <img src=https://github-readme-stats.vercel.app/api?username=sabruzuuu&theme=highcontrast&show_icons=true&hide_border=true&count_private=true>
+  <img src=https://github-readme-streak-stats.herokuapp.com/?user=sabruzuuu&theme=highcontrast&hide_border=true>
 </div>
 <div>
   <h2> Currently learning: </h2>
